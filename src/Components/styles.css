@@ -1,0 +1,20 @@
+.ui.cards>.card{
+    text-align: left;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.CommentsButton{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10%;
+
+}
+
+.ui.header{
+    color: navy;
+}
+
+.author{
+    color: navy;
+}
